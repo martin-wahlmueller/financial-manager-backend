@@ -1,0 +1,4 @@
+.idea/
+target/
+*.properties
+financial-manager-backend.iml
